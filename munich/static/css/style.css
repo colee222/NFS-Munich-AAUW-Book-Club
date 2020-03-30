@@ -16,7 +16,7 @@ Import Google Fonts
 
 
 .demo{ background-color: #dbdbdb; }
-.main-timeline{ font-family: 'Roboto', sans-serif; }
+.main-timeline{ font-family: "Raleway", Sans-serif; }
 .main-timeline:before{
     content: '';
     background-color: #e7e7e7;
@@ -224,6 +224,14 @@ h6 {
 	letter-spacing: 0.4px;
 	font-family: "Raleway", Sans-serif;
 	color: #232323;
+}
+
+h7{
+    font-weight: 400;
+    font-size: 22px;
+	letter-spacing: 0.4px;
+	font-family: "Raleway", Sans-serif;
+	color: #2F4F4F;
 }
 
 p {
