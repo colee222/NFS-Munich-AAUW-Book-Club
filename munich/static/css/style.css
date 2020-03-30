@@ -203,6 +203,12 @@ Import Google Fonts
 1. General
 --------------------*/
 
+
+a {
+  color: #add8e6;
+}
+
+
 body {
 	margin: 0px;
 	font-family: "Raleway", Sans-serif;
