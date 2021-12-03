@@ -4,7 +4,7 @@ This site was made for the [AAUW](https://www.aauw.org/) Book Club Discussion of
 
 It utilizes a one page theme Treviso Bootstrap Template created by [MOOZ Themes](http://moozthemes.com/).
 
-The theme was modifed and deployed with Django framework written in Python. Initially deployed using the [Django Girls](https://djangogirls.org/en/) tutorial.
+The theme was modified and deployed with Django framework written in Python. Initially deployed using the [Django Girls](https://djangogirls.org/en/) tutorial.
 
 Deployed on [pythonanywhere](https://www.pythonanywhere.com).
 
